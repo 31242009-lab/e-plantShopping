@@ -1,4 +1,4 @@
-```jsx
+
 function AboutUs({ compact = false }) {
   return (
     <div className={`about-us-container ${compact ? "about-compact" : ""}`}>
@@ -31,4 +31,4 @@ function AboutUs({ compact = false }) {
 }
 
 export default AboutUs;
-```
+
