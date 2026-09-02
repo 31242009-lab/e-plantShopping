@@ -1,4 +1,4 @@
-```jsx
+
 import { useDispatch, useSelector } from 'react-redux'
 import { removeItem, updateQuantity } from './CartSlice.jsx'
 
@@ -127,4 +127,4 @@ function CartItem({ onContinue }) {
 }
 
 export default CartItem
-```
+
